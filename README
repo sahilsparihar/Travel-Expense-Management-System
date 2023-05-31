@@ -1,0 +1,11 @@
+Here's an example of a basic travel expense management system implemented in Java. 
+Please note that this code is a simplified version and may not include all the necessary error handling or additional features you may want to incorporate. 
+It should serve as a starting point for your implementation.
+In this example, the Expense class represents an individual expense, with a description and an amount. 
+The ExpenseManager class manages a collection of expenses, allowing you to add new expenses and display the existing ones, along with the total amount.
+
+The TravelExpenseManagementSystem class serves as the entry point of the program. 
+It creates an instance of ExpenseManager and provides a simple menu-driven interface for adding expenses, displaying them, or exiting the program.
+
+Please note that this is a basic implementation, and you may need to enhance it based on our specific requirements and add features like data persistence,
+user authentication, or more advanced expense management capabilities.
