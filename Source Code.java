@@ -1,5 +1,3 @@
-package _1practice;
-
 import java.util.Scanner;
 
 class Expense {
